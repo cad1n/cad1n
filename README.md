@@ -2,8 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
 
 <div id="badges">
-    <a href="https://github.com/cad1n">
-        <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+        <img src="https://img.shields.io/badge/caioaugusto4520@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="caioaugusto4520@gmail.com"/>
     </a>
     <a href="https://www.linkedin.com/in/caioaugustotech/">
         <img src="https://img.shields.io/badge/LinkedIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Youtube Badge"/>
